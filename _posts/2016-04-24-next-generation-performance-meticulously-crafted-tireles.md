@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T05:29:36.911Z'
-dateModified: '2016-04-24T05:29:25.091Z'
+datePublished: '2016-04-24T05:30:24.104Z'
+dateModified: '2016-04-24T05:29:44.535Z'
 title: NEXT GENERATION PERFORMANCE METICULOUSLY CRAFTED - TIRELESSLY TESTED
 author: []
 sourcePath: _posts/2016-04-24-next-generation-performance-meticulously-crafted-tireles.md
