@@ -1,0 +1,28 @@
+name: Minimal-1
+favicon: null
+layout_spectrum: 0.6886550809722394
+typography_spectrum: 0.48141428478993475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.823096415027976
+  lightness: 0.4379263923037797
+  saturation: 0.7795820508617908
+  rhythmicContrast: 0.7952227781061083
+purpose: []
