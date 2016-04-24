@@ -1,7 +1,7 @@
 name: Minimal-1
 favicon: null
-layout_spectrum: 0.6886550809722394
-typography_spectrum: 0.48141428478993475
+layout_spectrum: 0.25146
+typography_spectrum: 0.4875
 cta:
   domain: null
   bucket: null
