@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: THE NEXT EVOLUTION IN LIVING ROOM GAMING
-datePublished: '2016-04-24T05:22:13.327Z'
-dateModified: '2016-04-24T05:20:57.296Z'
+datePublished: '2016-04-24T05:31:56.576Z'
+dateModified: '2016-04-24T05:22:21.300Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-the-next-evolution-in-living-room-gaming.md
